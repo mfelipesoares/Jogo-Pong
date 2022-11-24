@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+    background-color: rgb(8, 8, 8);
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+#bvol{
+    position: absolute;
+    top: 20px;
+    left: 94%;
+    text-decoration: none;
+    color: white;
+}
+
+canvas {
+    padding-top: 3%;
+    padding-left: 5%;
+    display: block;
+}
