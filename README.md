@@ -1,6 +1,6 @@
 # Jogo Pong 🏓️
 
-Acesse o jogo por este link => (https://mfelipesoares.github.io/Jogo-Pong/)
+Acesse o jogo por este link => https://mfelipesoares.github.io/Jogo-Pong/
 
 ## 🚀 Comandos:
 
