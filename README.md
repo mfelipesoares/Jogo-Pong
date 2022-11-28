@@ -1,5 +1,7 @@
 # Jogo Pong 🏓️
 
+Acesse o jogo por este link => (https://mfelipesoares.github.io/Jogo-Pong/)
+
 ## 🚀 Comandos:
 
    -Tecla R: Recarrega o jogo (em caso de bugs ou para reinicio do jogo);
